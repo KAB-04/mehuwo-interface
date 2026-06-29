@@ -1,7 +1,7 @@
 # Mehuwo Frontend
 
 <p align="center">
-  <img src="./public/logo.png" alt="Mehuwo Logo" width="140"/>
+  <img src="C:\Users\kojoa\Desktop\Umat\MEHUWO\Interface\mehuwo-interface\assets\mehuwo_logo.png" alt="Mehuwo Logo" width="140"/>
 </p>
 
 <p align="center">
